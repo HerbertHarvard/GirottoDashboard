@@ -26,10 +26,14 @@ Exportação para Power BI.
 ### Entregas
 
 Análises exploratórias no Jupyter
+
 Dashboard no Power BI (.pbix)
+
 CSV tratado pronto para visualização
+
 
 ### Autores
 
 Herbert Aciolly Leão de Jesus – Python e análise de dados e Power Bi
+
 Eduardo Aragão – Dashboard em Power BI
