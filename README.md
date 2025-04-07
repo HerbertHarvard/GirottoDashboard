@@ -1,4 +1,4 @@
-##### Música & Saúde Mental
+# Música & Saúde Mental
 
 Este projeto explora o dataset vindo do site Kaggle, focando em possíveis relações entre hábitos musicais e saúde mental (ansiedade e depressão).
 
